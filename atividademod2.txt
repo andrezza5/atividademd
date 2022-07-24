@@ -1,0 +1,24 @@
+//executado no python
+
+
+from time import sleep
+
+
+
+print('iniciando contagem regressiva:')
+
+
+
+for c in range(8, -1, -1):
+
+
+
+   sleep(1)
+
+  
+
+ print(c)
+
+
+
+print('BUM!')
